@@ -1,7 +1,0 @@
-INFO Server gestartet
-INFO User angemeldet
-ERROR Verbindung fehlgeschlagen
-WARN Timeout bei Anfrage
-INFO Verarbeitung abgeschlossen
-ERROR Ungültige Eingabe
-DEBUG Debugnachricht
